@@ -1,0 +1,22 @@
+site_name: zwio
+nav:
+    - Home: 'index.md'
+    - Docs: 'docs.md'
+    - About: 'about.md'
+    - Contact: 'contact.md'
+theme:
+  name: material
+  font:
+    text: Courier Prime
+  palette:
+    primary: black
+  icon:
+    logo: material/alpha-z-circle-outline
+  features:
+    - navigation.tabs
+    - header.autohide
+    - navigation.footer
+
+copyright: Copyright &copy; 2023 zwio
+extra:
+  generator: false
