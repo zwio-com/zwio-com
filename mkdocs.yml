@@ -1,7 +1,9 @@
 site_name: zwio
 nav:
     - Home: 'index.md'
-    - Docs: 'docs.md'
+    - Industries: 'industries.md'
+    - Services: 'services.md'
+    - Products: 'products.md'
     - About: 'about.md'
     - Contact: 'contact.md'
 theme:
